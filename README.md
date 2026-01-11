@@ -1,17 +1,17 @@
-# 🏠 Airbnb Data Analysis (Python Project)
+# Airbnb Data Analysis (Python Project)
 
 A  data analysis project using **Python (Jupyter Notebook)** and **Excel** to explore Airbnb listings data. This project provides actionable insights into pricing strategies, property performance, seasonal trends, and customer preferences.
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `Airbnb_Insights_Exploration.ipynb` – Jupyter Notebook with full exploratory analysis  
 - `airbnb_listings_dataset.xlsx` –dataset used for insights 
 
 ---
 
-## ❓ Business Questions Answered
+## Business Questions Answered
 
 - What factors influence the price of an Airbnb listing?
 - Which room types and locations perform best?
@@ -21,7 +21,7 @@ A  data analysis project using **Python (Jupyter Notebook)** and **Excel** to ex
 
 ---
 
-## 🛠️ Tools & Skills Used
+## Tools & Skills Used
 
 - **Python (Jupyter Notebook)**: Data exploration using `pandas`, `matplotlib`, `seaborn`
 - **Excel**
@@ -29,7 +29,7 @@ A  data analysis project using **Python (Jupyter Notebook)** and **Excel** to ex
 - **Statistical Analysis**: Correlation and distribution checks
 ---
 
-## 📊 Sample Insights
+## Sample Insights
 
 - Listings in central locations are priced **35% higher** on average
 - Entire homes have the highest booking rates and profits
@@ -39,20 +39,21 @@ A  data analysis project using **Python (Jupyter Notebook)** and **Excel** to ex
 
 ---
 
-## 🚀 How to Use
+## How to Run
 
 1.	Open Airbnb_Insights_Exploration.ipynb in Jupyter Notebook or VS Code
 2.	Run the cells to explore pricing, availability, and review data
 3.	Use the Excel file airbnb_listings_dataset.xlsx to verify trends and additional summaries
 4.	Modify the notebook to apply the same methods to similar datasets
 
-##🔮 Future Enhancements
+## Possible Extensions
 •	Build an interactive Streamlit or Tableau dashboard
 •	Add a machine learning model for price prediction
 •	Integrate location-based mapping using folium or plotly
 •	Automate the cleaning pipeline with Python scripting
 
-## 📫 Contact
+## Author 
 
-Thanks for checking out my first published data project!
-Feel free to connect on LinkedIn: www.linkedin.com/in/yadnyesh-thakare or drop an email at: thakareyadnyesh@gmail.com
+Yadnyesh Thakare
+LinkedIn: linkedin.com/in/yadnyesh-thakare
+Email: thakareyadnyesh@gmail.com
