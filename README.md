@@ -82,9 +82,9 @@ Include simple price prediction as a baseline model
 Add geographic visualizations using mapping libraries  
 
 ## Author
-Yadnyesh Thakare  
-GitHub: github.com/yadnyeshthakare  
+Yadnyesh Thakare    
 LinkedIn: linkedin.com/in/yadnyesh-thakare  
+Gmail: thakareyadnyesh@gmail.com
 
 ## Summary
 
